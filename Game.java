@@ -66,7 +66,7 @@ public abstract class Game extends Canvas{
 
 	
 	
-	//This is all old code that didn't end up working out for us
+	//This is all old code that didn't end up working out
 	
 	/*private BufferStrategy buff;
 	private Graphics g;
