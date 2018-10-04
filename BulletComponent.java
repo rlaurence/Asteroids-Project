@@ -50,7 +50,7 @@ public class BulletComponent{
 	 }
 	 
 	 
-	 //Old code that didn't work out for us
+	 //Old code that didn't work out
 	
 	/*Line2D.Double bullet;
 	public int startX;
